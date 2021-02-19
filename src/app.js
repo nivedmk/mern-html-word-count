@@ -7,9 +7,6 @@ const userRouter = require("./router/user.router");
 
 app.use(cors("**"));
 app.use(bodyParser.json());
-app.use("/", (req, res) => {
-  res.send("Success");
-});
 app.use("/webcounter", webCounterrouter);
 app.use("/users", userRouter);
 
