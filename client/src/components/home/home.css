@@ -1,0 +1,138 @@
+.big-text {
+  position: absolute;
+  width: 626px;
+  height: 202px;
+  left: 100px;
+  top: 206px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 73px;
+  color: #333333;
+}
+
+.big-img {
+  position: absolute;
+  right: 0px;
+}
+
+.small-text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 34px;
+  margin-top: 10px;
+
+  color: #333333;
+}
+
+.search-part {
+  position: absolute;
+  width: 663px;
+  height: 24px;
+  left: 351px;
+  top: 625px;
+  margin: auto;
+  display: block;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #4f4f4f;
+}
+.search-box {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 20px;
+  font-size: 20px;
+  color: #828282;
+  width: 82%;
+  height: 40px;
+
+  border: 2px solid #0d8bfc;
+  /* box-sizing: border-box; */
+}
+
+.get-insight {
+  background: #0d8bfc;
+  border: 0px;
+  height: 40px;
+  /* margin-top: 1px; */
+  /* Get insights */
+  top: 10px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  /* line-height: 24px; */
+
+  color: #ffffff;
+}
+
+.afterSubmit {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 24px;
+  color: #333333;
+}
+
+.count-box {
+  position: relative;
+  color: #333333;
+  color: #4776e6;
+  color: #333333;
+}
+.count-text {
+  position: absolute;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  color: #333333;
+  left: 60px;
+}
+
+.word-count {
+  color: #4776e6;
+  position: absolute;
+  width: 217px;
+  height: 36px;
+  left: 60px;
+
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 150%;
+}
+
+.feedback-text {
+  position: absolute;
+  right: 5%;
+  top: 40.02%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333333;
+}
+
+.table {
+  position: absolute;
+  /* width: 1165px; */
+  /* height: 699px; */
+  padding: 2%;
+  left: 0px;
+  top: 800px;
+}
